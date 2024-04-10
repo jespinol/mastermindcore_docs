@@ -1,0 +1,3 @@
+org.jmel.mastermind.core
+org.jmel.mastermind.core.feedbackstrategy
+org.jmel.mastermind.core.secretcodesupplier
